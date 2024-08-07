@@ -31,7 +31,7 @@ body{
 }
 .side-bar{
     position: relative;
-    background-color: #03A9F4;
+    background-color: #21713d;
     display: flex;
     flex-direction: row;
     min-width: 3rem;
