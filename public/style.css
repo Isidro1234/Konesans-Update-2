@@ -23,7 +23,6 @@ body{
     font-style: normal;
     padding-right: 15px;
     transition: all 300ms ease-in-out;
-    background:#363636;
 }
 .close-icone span{
     font-size: 10px;
@@ -262,7 +261,7 @@ h3 i{
     color:#aaff00;
 }
 .body-nightmode{
-    background-color: #4e4f39;  
+    background-color: #363636;  
 }
 .hero-nightmode{
     background-color: #363636;
